@@ -12,3 +12,5 @@ In this repository, for GraPacc you will find
 The tool is no longer maintained.<br>
 <p>
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+Thanks to 	Na Meng, Miryung Kim and Kathryn S. McKinley for their help in setting up the repository.
