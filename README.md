@@ -8,9 +8,9 @@ This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 In this repository, for Sydit you will find
 * :x: Source code (Not available)
 * :x: The original tool (Not available)
-<p>
+
 The tool is no longer maintained.<br>
-<p>
+
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
 Thanks to 	Na Meng, Miryung Kim and Kathryn S. McKinley for their help in setting up the repository.
