@@ -8,6 +8,7 @@ This repository <b><i>is NOT</b></i> the original repository for this tool.<br>
 In this repository, for Sydit you will find
 * :x: Source code (Not available)
 * :x: The original tool (Not available)
+* :x: The original video page (Not available)
 
 The tool is no longer maintained.<br>
 
