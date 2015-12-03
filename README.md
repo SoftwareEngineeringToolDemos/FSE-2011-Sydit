@@ -9,6 +9,7 @@ In this repository, for Sydit you will find
 * :x: Source code (Not available)
 * :x: The original tool (Not available)
 * :x: The original video page (Not available)
+* :x: VM containing tool (Not available)
 
 The tool is no longer maintained.<br>
 
