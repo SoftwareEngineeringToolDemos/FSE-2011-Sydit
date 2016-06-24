@@ -10,8 +10,6 @@ In this repository, for Sydit you will find
 * :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
 
-The tool is no longer maintained.<br>
-
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
-Thanks to 	Na Meng, Miryung Kim and Kathryn S. McKinley for their help in setting up the repository.
+Thanks to	Na Meng, Miryung Kim and Kathryn S. McKinley for their help in setting up the repository.
